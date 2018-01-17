@@ -58,8 +58,8 @@ While 1
 	Global $res = 0
 	Global $i = 0
 
-	While $i < 8
-		If $i = 1 Then
+	While $i < 10
+		If     $i = 1 Then
 			$a = analogread(0)
 		ElseIf $i = 2 Then
 			$b = analogread(0)
