@@ -1,6 +1,6 @@
-#include <ButtonConstants.au3>
-#include <GUIConstantsEx.au3>
-#include <WindowsConstants.au3>
+;#include <ButtonConstants.au3>
+;#include <GUIConstantsEx.au3>
+;#include <WindowsConstants.au3>
 #include <CommMG.au3>
 
 #include <BlockInputEx.au3>
